@@ -1,0 +1,35 @@
+pages:
+ # key is the dirname of pages in src/pages
+ home:
+  # 首页配置
+  zh-cn:
+   title: '星座奇缘'
+   keywords: '星座介绍，星座社区'
+   description: '帮助用户快速了解星座，查找星座，分享星座相关的文章，希望广大星座爱好者积极加入我们'
+  # home config
+  en-us:
+   title: 'page title'
+   keywords: 'keyword1,keyword2'
+   description: 'page description'
+ community:
+  # 社区页配置
+  zh-cn:
+   title: '星座社区'
+   keywords: '星座论坛，星座趣事'
+   description: '星座社交圈，聚集用户一起探讨星座相关的问题，共同学习'
+  # community page config
+  en-us:
+   title: 'page title'
+   keywords: 'keyword1,keyword2'
+   description: 'page description'
+ blog:
+  # 博客列表页配置
+  zh-cn:
+   title: '星座美文'
+   keywords: '星座介绍，星座匹配'
+   description: '关于星座的好文章进行分享，用户有好的文章可以进行投稿，作为美文集聚地'
+  en-us:
+   # blog list page config
+   title: 'page title'
+   keywords: 'keyword1,keyword2'
+   description: 'page description'

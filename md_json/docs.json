@@ -1,0 +1,96 @@
+{
+  "en-us": [
+    {
+      "filename": "demo1.md",
+      "link": "\\en-us\\docs\\demo1.html",
+      "meta": {}
+    },
+    {
+      "filename": "demo2.md",
+      "link": "\\en-us\\docs\\demo2.html",
+      "meta": {}
+    },
+    {
+      "filename": "demo3.md",
+      "link": "\\en-us\\docs\\dir\\demo3.html",
+      "meta": {}
+    }
+  ],
+  "zh-cn": [
+    {
+      "filename": "aboutconpany.md",
+      "link": "\\zh-cn\\docs\\aboutconpany.html",
+      "meta": {}
+    },
+    {
+      "filename": "aboutsite.md",
+      "link": "\\zh-cn\\docs\\aboutsite.html",
+      "meta": {}
+    },
+    {
+      "filename": "aboutxz.md",
+      "link": "\\zh-cn\\docs\\aboutxz.html",
+      "meta": {}
+    },
+    {
+      "filename": "xz_baiyang.md",
+      "link": "\\zh-cn\\docs\\dir\\xz_baiyang.html",
+      "meta": {}
+    },
+    {
+      "filename": "xz_chunv.md",
+      "link": "\\zh-cn\\docs\\dir\\xz_chunv.html",
+      "meta": {}
+    },
+    {
+      "filename": "xz_jinniu.md",
+      "link": "\\zh-cn\\docs\\dir\\xz_jinniu.html",
+      "meta": {}
+    },
+    {
+      "filename": "xz_juxie.md",
+      "link": "\\zh-cn\\docs\\dir\\xz_juxie.html",
+      "meta": {}
+    },
+    {
+      "filename": "xz_mojie.md",
+      "link": "\\zh-cn\\docs\\dir\\xz_mojie.html",
+      "meta": {}
+    },
+    {
+      "filename": "xz_sheshou.md",
+      "link": "\\zh-cn\\docs\\dir\\xz_sheshou.html",
+      "meta": {}
+    },
+    {
+      "filename": "xz_shizi.md",
+      "link": "\\zh-cn\\docs\\dir\\xz_shizi.html",
+      "meta": {}
+    },
+    {
+      "filename": "xz_shuangyu.md",
+      "link": "\\zh-cn\\docs\\dir\\xz_shuangyu.html",
+      "meta": {}
+    },
+    {
+      "filename": "xz_shuangzi.md",
+      "link": "\\zh-cn\\docs\\dir\\xz_shuangzi.html",
+      "meta": {}
+    },
+    {
+      "filename": "xz_shuiping.md",
+      "link": "\\zh-cn\\docs\\dir\\xz_shuiping.html",
+      "meta": {}
+    },
+    {
+      "filename": "xz_tianping.md",
+      "link": "\\zh-cn\\docs\\dir\\xz_tianping.html",
+      "meta": {}
+    },
+    {
+      "filename": "xz_tianxie.md",
+      "link": "\\zh-cn\\docs\\dir\\xz_tianxie.html",
+      "meta": {}
+    }
+  ]
+}
